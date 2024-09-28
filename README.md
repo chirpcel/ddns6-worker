@@ -1,7 +1,8 @@
 # ddns6-worker 
 
 ddns6-worker is a DynDNS service to update your IPv6 IP adress on Cloudflare hosted domains. It uses the Cloudlfare API to update the dns record.
-![ddns6-worker](./docs/media/ddns6-worker.png)
+![ddns6-worker](./docs/media/ddns6-worker_light.png#gh-light-mode-only)
+![ddns6-worker](./docs/media/ddns6-worker_dark.png#gh-dark-mode-only)
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/skuncel/ddns6-worker)
 
 ## Wrangler
